@@ -1,7 +1,8 @@
+Updates in progress...
 # Wine exploration
 
 ### Introduction 
-For my practice project I chose this project to aid me in better understanding the various steps involed in a predictive analytics project. This project is about using chemical analysis to determine the origin of wines.
+For my practice project I chose this project to aid me in better understanding the various steps involved in a predictive analytics project. This project is about using chemical analysis to determine the origin of wines.
 
 
 ### Data collection
