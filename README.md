@@ -25,7 +25,7 @@ The attributes of the datasets are listed below:
 The dataset contained 178 wine chemical anaylsis of three types of wines.
 
 ### Preprocessing
-From my obeservations, the dataset had no missing values, and there were no outliers to work on.
+From my observations, the dataset had no missing values, and there are outliers to investigate.
 
 
 ### Exploratory Data Analysis
@@ -33,10 +33,10 @@ In gaining more understanding about the dataset it was important to carry out ex
 this was done by using univariate plots to better understand individual attributes, and multivariate plots to better understand the relationships between attributes.
 
 
+![Box Plot](./images/box_whisker_plots.png)
 
 
-
-
+![Correlation Matrix](./images/correlation_matrix.png)
 
 
 ### Modeling
